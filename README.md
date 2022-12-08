@@ -1,4 +1,4 @@
-# assemblyTest
+# assembly lab
 This is a short program to demonstrate knowledge of assembly
 
 This program mimics the following c code:
